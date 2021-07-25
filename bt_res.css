@@ -76,6 +76,8 @@ section{
 	}
 	#navbar li{
 		float: none;
+		text-align: left;
+		
 	}
 	#content{
 		width: 75%;
